@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-9\Desktop\n9a\uchilishte2\bin\Debug\uchilishte2.exe.config
+C:\Users\STUDENTS-1409-9\Desktop\n9a\uchilishte2\bin\Debug\uchilishte2.exe
+C:\Users\STUDENTS-1409-9\Desktop\n9a\uchilishte2\bin\Debug\uchilishte2.pdb
+C:\Users\STUDENTS-1409-9\Desktop\n9a\uchilishte2\obj\Debug\uchilishte2.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-9\Desktop\n9a\uchilishte2\obj\Debug\uchilishte2.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-9\Desktop\n9a\uchilishte2\obj\Debug\uchilishte2.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-9\Desktop\n9a\uchilishte2\obj\Debug\uchilishte2.exe
+C:\Users\STUDENTS-1409-9\Desktop\n9a\uchilishte2\obj\Debug\uchilishte2.pdb
